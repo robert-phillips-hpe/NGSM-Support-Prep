@@ -51,7 +51,7 @@ To be successful in this course, you should have the following prerequisites and
 
 2. **Familiarity with YAML Syntax**  
    YAML is the format used for cloud-init configurations.  
-   - *Source:* [YAML Tutorial](https://www.cloudbees.com/blog/yaml-tutorial)
+   - *Source:* [YAML Tutorial](https://www.cloudbees.com/blog/yaml-tutorial-everything-you-need-get-started)
 
 3. **Cloud Platform Basics**  
    Understanding virtual machines, instances, and cloud platforms like AWS, Azure, or Google Cloud.  
@@ -59,7 +59,7 @@ To be successful in this course, you should have the following prerequisites and
 
 4. **Networking Basics**  
    Knowledge of IP addressing, DNS configuration, and basic troubleshooting.  
-   - *Source:* [Networking Basics for Beginners](https://www.geeksforgeeks.org/basics-of-computer-network/)
+   - *Source:* [Linux Networking Tutorials](https://www.baeldung.com/linux/networking-series)
 
 ---
 
@@ -74,8 +74,8 @@ To be successful in this course, you should have the following prerequisites and
 - Supported cloud platforms
 
 #### Online Resources
-- [Cloud-Init Documentation Overview](https://cloudinit.readthedocs.io/en/latest/topics/overview.html)
-- [Introduction to Cloud-Init](https://www.linode.com/docs/guides/introduction-to-cloud-init/)
+- [Cloud-Init FAQ](https://cloudinit.readthedocs.io/en/stable/reference/faq.html)
+- [Introduction to Cloud-Init](https://docs.cloud-init.io/en/latest/explanation/introduction.html)
 
 #### Exercises
 1. Research which cloud platforms support Cloud-Init.  
@@ -96,8 +96,8 @@ To be successful in this course, you should have the following prerequisites and
 - Lifecycle stages: boot, init, runtime
 
 #### Online Resources
-- [Installing Cloud-Init on Linux](https://www.linode.com/docs/guides/introduction-to-cloud-init/#installing-cloud-init)
-- [Cloud-Init Configuration Guide](https://cloudinit.readthedocs.io/en/latest/topics/config.html)
+- [Installing Cloud-Init on Linux](https://hostman.com/tutorials/installing-and-configuring-cloud-init-in-linux/)
+- [Cloud-Init Config File](https://docs.cloud-init.io/en/latest/explanation/about-cloud-config.html)
 
 #### Exercises
 1. Install Cloud-Init on a test VM and verify installation.  
@@ -120,8 +120,8 @@ To be successful in this course, you should have the following prerequisites and
 
 #### Online Resources
 - [Cloud-Init Configuration Examples](https://cloudinit.readthedocs.io/en/latest/topics/examples.html)
-- [YAML Syntax Guide](https://www.cloudbees.com/blog/yaml-tutorial)
-- [Debugging Cloud-Init](https://docs.oracle.com/en/operating-systems/oracle-linux/cloud-init/ol-cloud-init-debugging.html)
+- [YAML Syntax: The Complete Cheat Sheet](https://www.slingacademy.com/article/yaml-syntax-the-complete-cheat-sheet/)
+- [Debugging Cloud-Init](https://cloudinit.readthedocs.io/en/latest/howto/debugging.html)
 
 #### Exercises
 1. Write a simple cloud-init configuration to add a user and set up SSH keys.  
@@ -143,7 +143,7 @@ To be successful in this course, you should have the following prerequisites and
 
 #### Online Resources
 - [Cloud-Init Data Sources Documentation](https://cloudinit.readthedocs.io/en/latest/topics/datasources.html)
-- [Understanding Cloud-Init Data Sources](https://blog.centos.org/2020/03/understanding-cloud-init-datasources/)
+- [Cloud-Init Data Sources](https://cloudinit.readthedocs.io/en/21.1/topics/datasources.html)
 
 #### Exercises
 1. Identify which data source your cloud platform uses.  
@@ -189,8 +189,8 @@ To be successful in this course, you should have the following prerequisites and
 
 #### Online Resources
 - [Using Cloud-Init Templates](https://cloudinit.readthedocs.io/en/latest/topics/examples.html#template-example)
-- [Automating Multi-Instance Deployment](https://www.linuxjournal.com/content/cloud-init-automate-your-cloud-deployments)
-- [Integrating Cloud-Init with CI/CD](https://www.redhat.com/sysadmin/cloud-init-cicd)
+- [Optimizing Cloud-init Scripts for Multi-distribution Compatibility](https://shape.host/resources/optimizing-cloud-init-scripts-for-multi-distribution-compatibility)
+- [Cloud-Init: Mastering Automated Server Setup for Cloud and Virtualization](https://medium.com/@saadaoui.mouadh/cloud-init-mastering-automated-server-setup-for-cloud-and-virtualization-2d34cac740a5)
 
 #### Exercises
 1. Build a reusable template for deploying a web server.  
