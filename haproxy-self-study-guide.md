@@ -1,5 +1,3 @@
-markdown
-Copy Code
 # HAProxy Course Curriculum
 
 ## Course Title: Mastering HAProxy – Load Balancing and High Availability
