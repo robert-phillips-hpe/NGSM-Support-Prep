@@ -30,7 +30,8 @@ This self-study course is designed for individuals looking to learn Python progr
      - What are the advantages of using an IDE for Python development?  
    - **Online Resources:**  
      - [DigitalOcean - Installing Python](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-ubuntu-20-04)  
-     - [FreeCodeCamp - Python Setup Guide](https://www.freecodecamp.org/news/installing-python-on-windows/)  
+     - [Python Releases for Windows](https://www.python.org/downloads/windows/)
+     - [Using Python on macOS](https://docs.python.org/3/using/mac.html)
 
 ---
 
@@ -56,8 +57,8 @@ This self-study course is designed for individuals looking to learn Python progr
      - What is the difference between `for` and `while` loops?  
      - How does Python handle nested conditionals?  
    - **Online Resources:**  
-     - [GeeksforGeeks - Python Control Flow](https://www.geeksforgeeks.org/control-flow-python/)  
-     - [Real Python - Loops in Python](https://realpython.com/python-loops/)  
+     - [Control Flow Structures in Python](https://realpython.com/python-control-flow/)  
+     - [Loops in Python - For, While and Nested Loops](https://www.geeksforgeeks.org/python/loops-in-python/)  
 
 ---
 
@@ -83,7 +84,7 @@ This self-study course is designed for individuals looking to learn Python progr
      - How do you raise custom exceptions in Python?  
    - **Online Resources:**  
      - [W3Schools - Python Try-Except](https://www.w3schools.com/python/python_try_except.asp)  
-     - [TutorialsPoint - Error Handling](https://www.tutorialspoint.com/python/python_exceptions.htm)  
+     - [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)  
 
 ---
 
@@ -108,7 +109,7 @@ This self-study course is designed for individuals looking to learn Python progr
      - How can you iterate over a dictionary’s keys and values?  
    - **Online Resources:**  
      - [GeeksforGeeks - Python Dictionaries](https://www.geeksforgeeks.org/python-dictionary/)  
-     - [TutorialsPoint - Sets](https://www.tutorialspoint.com/python/python_sets.htm)  
+     - [Python Sets](https://www.programiz.com/python-programming/set)  
 
 ---
 
@@ -122,7 +123,7 @@ This self-study course is designed for individuals looking to learn Python progr
      - What is the difference between an instance method and a class method?  
      - What is the purpose of the `__init__` method?  
    - **Online Resources:**  
-     - [Real Python - Python OOP](https://realpython.com/python-object-oriented-programming/)  
+     - [Python OOP Concepts](https://www.geeksforgeeks.org/python/python-oops-concepts/)  
 
 2. **Inheritance and Polymorphism**  
    - Understand how to extend classes using inheritance and override methods for polymorphism.  
@@ -154,7 +155,7 @@ This self-study course is designed for individuals looking to learn Python progr
    - **Test Questions:**  
      - How can you install a third-party library in Python?  
    - **Online Resources:**  
-     - [Real Python - Python Modules and Packages](https://realpython.com/python-modules-packages/)  
+     - [Modules and Packages](https://www.learnpython.org/en/Modules_and_Packages)  
 
 ---
 
@@ -163,11 +164,12 @@ This self-study course is designed for individuals looking to learn Python progr
 ### **Knowledge Prerequisites**  
 1. **Basic Computer Literacy**  
    - Ability to navigate files, folders, and operate a computer.  
-   - [DigitalLearn - Basic Computer Skills](https://www.digitallearn.org/courses/basic-computer-skills)  
+   - [Linux/Unix Tutorial](https://www.geeksforgeeks.org/linux-unix/linux-tutorial/)  
 
 2. **Basic Mathematics**  
    - Understanding of arithmetic and logical operators.  
-   - [Khan Academy - Basic Math](https://www.khanacademy.org/math)  
+   - [What are Operators in Programming?](https://www.geeksforgeeks.org/dsa/operators-programming/)
+   - [Understanding Python Operators: Arithmetic, Comparison, and Logical](https://pyquesthub.com/understanding-python-operators-arithmetic-comparison-and-logical)
 
 ### **Skills Required**  
 - Problem-solving skills.  
